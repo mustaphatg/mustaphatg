@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Ibrahim Mustapha. A Full-Stack PHP developer who love writing clean and maintainable code. Did I mention that I love scraping websites? You should git in touch with me if you have a project that involves PHP or React-js. Find out more about me & feel free to connect with me here:
+I am Ibrahim Mustapha. A Full-Stack PHP developer who love writing clean and maintainable code. Did I mention that I love scraping websites? You should get in touch with me if you have a project that involves PHP or React-js. Find out more about me & feel free to connect with me here:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/Mustapha_Tg-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustaphatg/)](https://www.linkedin.com/in/mustaphatg/)
