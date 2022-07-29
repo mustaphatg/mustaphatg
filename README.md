@@ -26,4 +26,7 @@ I am Ibrahim Mustapha. A Full-Stack PHP developer who love writing clean and mai
 
 
 
+## My Stats:
+[![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustaphatg&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
