@@ -1,5 +1,11 @@
 ### Hi there 👋
-I am Ibrahim Mustapha. A Full-Stack PHP developer who love writing clean and maintainable code. Did I mention that I love scraping websites? You should get in touch with me if you have a project that involves PHP or React-js. Find out more about me & feel free to connect with me here:
+Am an experienced PHP developer with over 3 years of experience in developing and maintaining web applications. <br>
+
+⚡ Proficient in PHP, MySQL, Laravel, JavaScript, and HTML/CSS.  <br>
+⚡ Strong background in object-oriented programming and MVC frameworks. <br>
+⚡ Proven track record of delivering projects on time and within budget. Committed to staying up-to-date with the latest industry trends and technologies.<br>
+
+<b>I love scraping website, so don't hesitate to share a PHP, Nodejs, Python or scraping project with me. </b>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/Mustapha_Tg-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustaphatg/)](https://www.linkedin.com/in/mustaphatg/)
