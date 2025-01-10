@@ -1,5 +1,5 @@
 ### Hi there 👋
-Am an experienced PHP developer with over 3 years of experience in developing and maintaining web applications. <br>
+Am an experienced PHP developer with 5 years of experience in developing and maintaining web applications. <br>
 
 ⚡ Proficient in PHP, MySQL, Laravel, JavaScript, and HTML/CSS.  <br>
 ⚡ Strong background in object-oriented programming and MVC frameworks. <br>
