@@ -32,7 +32,5 @@ Am an experienced PHP developer with over 3 years of experience in developing an
 
 
 
-## My Stats:
-[![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustaphatg&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
